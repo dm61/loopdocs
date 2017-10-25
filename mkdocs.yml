@@ -36,7 +36,9 @@ pages:
     - 'Time Changes': 'use/time-change.md'
     - 'RileyLink': 'use/rileylink.md'
     - 'Loop Notifications': 'use/notifications.md'
+    - 'Health App': 'use/healthapp.md'
     - 'Issues/Troubles': 'use/issues.md'
+    - 'New Version Info': 'use/new-version.md'
 - Algorithm:
     - 'Overview': 'algorithm/overview.md'
     - 'Glucose Prediction': 'algorithm/prediction.md'

@@ -35,7 +35,9 @@ RileyLink has several lights that you may notice from time to time.  There is no
 
 ## Charging
 
-The battery that comes with RileyLink will easily last a full day of constant Loop use.  Typically, it can go into the 30-hour range without problem.  Most people charge their RileyLink each night when they are sleeping.  You don't have to worry about leaving the RileyLink plugged in "too long" for charging.  It will automatically stop charging the battery when it is fully charged.
+The battery that comes with RileyLink is not likely charged completely when it is shipped, so feel free to charge it up.  You'll need a [mini-USB cable](https://www.amazon.com/AmazonBasics-USB-2-0-Cable--Male/dp/B00NH13S44) and [0.5A USB charging power supply](https://www.amazon.com/Cellet-Powered-Charger-iPhones-Smartphones-/dp/B00FE8WFCO) like your iPhone power supply.  RileyLink takes about 2-4 hours to fully charge (the red light will turn off when fully charged, read note above about red light patterns) and should easily last at least a full day of constant Loop use.  Typically, it can go into the 30-hour range without problem.  Most people charge their RileyLink each night when they are sleeping.  You don't have to worry about leaving the RileyLink plugged in "too long" for charging.  It will automatically stop charging the battery when it is fully charged.
+
+Since the best practice is to charge your RileyLink overnight while you sleep, and the battery lasts safely over 24 hours, there is no battery level indicator for the RileyLink.  The RileyLink's charge level is not viewable on Nightscout, nor within the Loop app.  If you forget to charge your RileyLink overnight, you can recharge it with a portable USB battery in a pinch.  A [short mini-USB cable](https://www.adafruit.com/product/899) could be a good addition to a small gear bag.
 
 ## Range
 
@@ -55,7 +57,7 @@ If you ordered your RileyLink preassembled, you should plug in the battery cable
   <figcaption>RileyLink with properly secured battery cable.</figcaption>
 </figure></p>
 
-Keep your RileyLink and lipo battery protected from damage.  Lipo batteries are unsafe when damaged or punctured, so the case is an important part of safe Looping.  If your battery is damaged in some way, please disconnect it immediately, and dispose of it (they should be recycled). You can order new batteries on the [GetRileyLink website](http://getrileylink.azurewebsites.net/)
+Keep your RileyLink and lipo battery protected from damage.  Lipo batteries are unsafe when damaged or punctured, so the case is an important part of safe Looping.  If your battery is damaged in some way, please disconnect it immediately, and dispose of it (they should be recycled). You can order new batteries on the [GetRileyLink website](http://getrileylink.org/)
 
 <p align="center">
 <img src="../img/rl_case.jpg" width="400">
