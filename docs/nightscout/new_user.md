@@ -177,7 +177,7 @@ You do not have to enter all the information in the profile if you are using Loo
 <td>true</td>
 </tr>
 <tr>
-<th>PUMP_URGENT_BATT_U</th>
+<th>PUMP_URGENT_BATT_P</th>
 <td>30</br></br>(This is the pump battery percentage that will trigger a red, urgent alert in NS.)</td>
 </tr>
 <tr>
@@ -207,6 +207,24 @@ You do not have to enter all the information in the profile if you are using Loo
 </tbody>
 </table>
 
+!!!info ""
+    If you are using Dexcom Share outside the United States, you will need to add one additional variable.
+    </br>
+    <table>
+    <thead>
+    <tr>
+    <th>KEY</th>
+    <th>VALUE</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <th>BRIDGE_SERVER</th>
+    <p alighn="left"><td>EU</td>
+    </tr>
+    </tbody>
+    </table>
+
 * Click on `Open App` in the top right corner of your Heroku site.
 
 <p align="center">
@@ -217,7 +235,16 @@ You do not have to enter all the information in the profile if you are using Loo
 
 <p align="center">
 <img src="../img/settings_ns.jpg" width="450">
-</p> 
+</p>
+
+!!!info "Troubleshooting Tip"
+    If you are using Dexcom Share, don't forget to turn on "Sharing" toggle in the G5 app (or Share in the G4 receiver) and have a follower (even if it's yourself)...otherwise Nightscout won't get your BG data through the bridge.
+    <p align="center">
+    <img src="../img/sharing.jpg" width="250">
+    </p>
+</br>
+
+
 
 ## EVENT HISTORY
 
